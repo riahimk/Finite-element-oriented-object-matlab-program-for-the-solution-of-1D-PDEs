@@ -1,1 +1,2 @@
 # Finite-element-oriented-object-matlab-program-for-the-solution-of-1D-PDEs
+A finite element assembly for the stiffness matrix and the mass matrix is easy handled via oriented object matlab programing. A very simplified access to those matrices as well as their manipulations has been add in the program. Boundary doncitions can also be handled easaly, while in the current version we consider a penalization approach in the case of Dirichlet boundary conditions. 
